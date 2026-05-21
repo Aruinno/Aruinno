@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎮 Seisenbayev Bereket
+  🎮 Сейсенбаев Берекет
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 👾 About Me:
 
-👤 **Seisenbayev Bereket** — Game Developer | App Creator | 3D Modeler  
+👤 **Сейсенбаев Берекет** — Game Developer | App Creator | 3D Modeler  
 🎂 **Age:** 18  
 📍 **Location:** Актау → Алматы, Kazakhstan  
 🎓 **Status:** 1st year student at МУИТ  
@@ -40,15 +40,6 @@
 - 🎮 **3D Game Assets** — Character & environment models made in Blender for games
 
 > 💡 *Just getting started — big projects are coming!*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aruinno&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruinno&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
