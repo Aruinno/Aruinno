@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Game+Developer+in+progress...;Python+%7C+C%2B%2B+%7C+Java+learner;3D+Modeler+with+Blender;Telegram+Bot+Builder;From+Aktau+to+Almaty+🚀" alt="Typing SVG" />
+  🎮 Game Developer in progress &nbsp;|&nbsp; 🐍 Python · C++ · Java &nbsp;|&nbsp; 🎨 Blender 3D &nbsp;|&nbsp; 🤖 Bot Builder &nbsp;|&nbsp; 🚀 Aktau → Almaty
 </p>
 
 ---
