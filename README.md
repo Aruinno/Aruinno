@@ -70,6 +70,7 @@
 ## 🌐 Socials
 
 [![Telegram](https://img.shields.io/badge/@aruuinoo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aruuinoo)
+[![Gmail](https://img.shields.io/badge/sbereket805@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbereket805@gmail.com)
 [![GitHub](https://img.shields.io/badge/Aruinno-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aruinno)
 
 ---
