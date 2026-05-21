@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎮 Сейсенбаев Берекет
+  🎮 Seidenbayev Bereket
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 👾 About Me:
 
-👤 **Сейсенбаев Берекет** — Game Developer | App Creator | 3D Modeler  
+👤 **Seisenbayev Bereket** — Game Developer | App Creator | 3D Modeler  
 🎂 **Age:** 18  
 📍 **Location:** Актау → Алматы, Kazakhstan  
 🎓 **Status:** 1st year student at МУИТ  
@@ -71,6 +71,7 @@
 
 [![Telegram](https://img.shields.io/badge/@aruuinoo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aruuinoo)
 [![Gmail](https://img.shields.io/badge/sbereket805@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbereket805@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Bereket_Seisenbayev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bereket-seisenbayev-4b8571407/)
 [![GitHub](https://img.shields.io/badge/Aruinno-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aruinno)
 
 ---
