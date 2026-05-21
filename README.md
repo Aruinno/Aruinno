@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎮 Seidenbayev Bereket
+  🎮 Seisenbayev Bereket
 </h1>
 
 <p align="center">
