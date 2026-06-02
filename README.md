@@ -15,8 +15,7 @@
 ## 👾 About Me:
 
 👤 **Сейсенбаев Берекет** — Game Developer | App Creator | 3D Modeler  
-🎂 **Age:** 18  
-📍 **Location:** Актау → Алматы, Kazakhstan  
+🎂 **Age:** 18   
 🎓 **Status:** 1st year student at МУИТ  
 🗣️ **Languages:** Kazakh (native), Russian, English (IELTS B2)  
 🎯 **Career Goal:** Game & App Developer with 3D modeling expertise  
