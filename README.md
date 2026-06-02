@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🎮 Game Developer in progress &nbsp;|&nbsp; 🐍 Python · C++ · Java &nbsp;|&nbsp; 🎨 Blender 3D &nbsp;|&nbsp; 🤖 Bot Builder &nbsp;|&nbsp; 🚀 Aktau → Almaty
+  🎮 Game Developer in progress &nbsp;|&nbsp; 🐍 Python · C++ · Java &nbsp;|&nbsp; 🎨 Blender 3D &nbsp;|&nbsp; 🤖 Bot Builder &nbsp;|&nbsp; 
 </p>
 
 ---
